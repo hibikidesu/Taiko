@@ -115,3 +115,7 @@ dmypy.json
 
 # IDE
 .idea
+
+# Songs
+*.tja
+*.ogg
